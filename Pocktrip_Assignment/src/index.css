@@ -1,0 +1,51 @@
+.redd{
+  background-color: #f1f8e9 !important;
+}
+
+
+.normpad{
+  padding: 10px 30px 3px 30px !important;
+}
+
+input , textarea{
+	letter-spacing: 2px !important;
+	word-spacing: 10px !important;
+}
+
+.marg-lg-bottom{
+	margin-bottom: 50px !important ;
+}
+
+.marg-right{
+  margin-right: 10px !important;
+}
+
+.none{
+  border: none !important;
+  background-color: transparent !important;
+}
+
+.border{
+	border: solid 1px black !important;
+	padding: 0 !important;
+}
+
+.marg-sm-top{
+	margin-top: 10px !important;
+}
+
+.marg-md-top{
+	margin-top: 30px !important;
+}
+
+.less-marg{
+	margin: 0px 0px 0px 20px !important;
+}
+
+.Formm{
+	padding: 30px !important;
+}
+
+.marg-sm{
+	margin: 20px 5px 5px 5px !important;
+}
